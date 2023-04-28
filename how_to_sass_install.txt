@@ -1,0 +1,35 @@
+Firrst ruby install  run rubby command promt
+
+====================================
+step1:
+ruby -v
+
+
+step 2
+gem install rubygems-update 
+update_rubygems
+gem update --system
+
+gem install compass sass
+gem install breakpoint
+
+step 3.
+akhon apnar project folder a dhuken git bash thke
+cd ../..
+cd c/wamp/www/wordpress/wp-content/themes/custom
+
+compass init
+compass compile
+compass watch
+====================================
+
+
+
+
+
+======================
+how to directory change
+C:\>f:
+======================
+
+F:\>
